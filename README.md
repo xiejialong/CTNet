@@ -1,6 +1,6 @@
 # CTNet
 ### Dataset:
-Our RefOCIDGrasp annotation: [Google Drive](https://drive.google.com/drive/folders/1tKdB7tIugG3hKUOCYzxjNajqSqnk6Wo0?usp=drive_link)
+Our Ref-OCID-Grasp annotation: [Google Drive](https://drive.google.com/drive/folders/1tKdB7tIugG3hKUOCYzxjNajqSqnk6Wo0?usp=drive_link)
 
 ![examples](examples.jpg)
 
